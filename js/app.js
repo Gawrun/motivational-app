@@ -5,7 +5,8 @@ const quotes = [
     "Nema problema koji ne možete riješiti!",
     "Svaki dan je nova prilika za uspjeh!",
     "Nikada nemojte odustati od svojih snova!",
-    "Vi ste izvanredna osoba!"
+    "Vi ste izvanredna osoba!",
+    "Git moze biti super stvar, osim ako obrises sve foldere"
 ];
 
 $(function() {
